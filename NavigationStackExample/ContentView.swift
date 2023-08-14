@@ -23,7 +23,7 @@ struct ContentView: View {
             
             VStack {
                 NavigationLink(destination: SecondView()) {
-                    Text("testing")
+                    Text("Link 1")
                 }
             }
         }
